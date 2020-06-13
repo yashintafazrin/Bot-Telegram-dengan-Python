@@ -33,9 +33,9 @@ class Mybot:
         kumpuldata=''
         if(jmldata>0):
             #print(data)
-            # no=0
+            no=0
             for x in data:
-                # no += 1
+                no += 1
                 kumpuldata = kumpuldata+ str(x) + '\n'
                 print(kumpuldata)
                 kumpuldata = kumpuldata.replace('(', '')
