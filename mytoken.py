@@ -1,0 +1,2 @@
+TOKEN='1143319703:AAEQMD4ZcxMC0rug880fnB-uFq9BsXKOTdE'
+SAPA="Halo saya starbhak Bot "
