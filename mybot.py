@@ -18,7 +18,7 @@ class Mybot:
 
     @mybot.message_handler(commands=['start', 'help'])
     def start(message):
-        # photo = open('img/tb1.jpg', 'rb')
+        # photo = open('img/rpl.jpg', 'rb')
         # myBot.send_photo(message.from_user.id, photo)
         teks = mytoken.SAPA + "\n-- admin @yashinta fazrin - murid SMK Taruna Bhakti -- "+"\n" \
                         " Hari ini tanggal "+str(waktusekarang)
